@@ -1,0 +1,41 @@
+# Organisms for this study:
+1. Humans
+2. Great apes:
+	a. Chimpanzee
+	b. Bonobos
+	c. Gorilla
+	d. Orangutan
+3. Lesser apes:
+	a. Gibbons
+4. Monkeys:
+	a. Old World monkeys
+	b. New World monkeys
+5. Prosimians
+	a. Tarsier
+	b. Lemur
+	c. Lorises
+
+
+# Datasets
+1. Home sapiens (human)
+	- Downloaded from: https://www.internationalgenome.org/data-portal/data-collection/30x-grch38
+	- Female: HG00288
+	- Male: HG00290
+
+2. Pan troglodytes (chimpanzee) 
+	- Downloaded from: https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP385174&o=acc_s%3Aa
+	- Female: SRR20006579
+	- Male: SRR20006582
+	- RefSeq: https://www.ncbi.nlm.nih.gov/genome/?term=Pan+troglodytes
+
+3. Macaca mulatta (rhesus macaque)
+	- Female: SRR20006681
+	- Male: SRR20006680
+	- RefSeq: https://www.ncbi.nlm.nih.gov/assembly/GCF_003339765.1/
+	
+4. Grey Mouse Lemur (Microcebus murinus)
+	- Downloaded from: https://www.ncbi.nlm.nih.gov/bioproject/861727
+	- Female:
+	- Male:
+	- RefSeq: 
+

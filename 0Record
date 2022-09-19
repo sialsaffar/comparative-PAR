@@ -1,0 +1,13 @@
+
+# extract only chrX from bam file:
+samtools view -bh female-chimp.bam NC_036902.1 > female-chimp-chrX.bam
+
+# average mean per window using bedtools:
+bedtools genomecov -ibam <infile> -w <windowsize> 
+
+# make windows bed file from ref
+bedtools makewindows -g rheMac10-chrX.fa.fai -w 10000 > chrX-windows.bed
+
+
+
+
